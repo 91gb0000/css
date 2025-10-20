@@ -1,8 +1,8 @@
 {
-  "checked_at": "2025-10-20 05:41:17",
+  "checked_at": "2025-10-20 07:42:04",
   "count": 3,
-  "normal_count": 2,
-  "abnormal_count": 1,
+  "normal_count": 3,
+  "abnormal_count": 0,
   "sites": [
     {
       "monitor": "91dasai.com",
@@ -10,15 +10,15 @@
       "status": "UP",
       "status_text": "正常",
       "is_abnormal": false,
-      "last_checked": "2025-10-20T13:36:28+0800"
+      "last_checked": "2025-10-20T15:40:34+0800"
     },
     {
       "monitor": "91dasai.shop",
       "url": "https://91dasai.shop/",
-      "status": "DOWN",
-      "status_text": "异常",
-      "is_abnormal": true,
-      "last_checked": "2025-10-20T13:37:50+0800"
+      "status": "UP",
+      "status_text": "正常",
+      "is_abnormal": false,
+      "last_checked": "2025-10-20T15:40:02+0800"
     },
     {
       "monitor": "91dasai.xyz",
@@ -26,17 +26,7 @@
       "status": "UP",
       "status_text": "正常",
       "is_abnormal": false,
-      "last_checked": "2025-10-20T13:36:23+0800"
-    }
-  ],
-  "abnormal_sites": [
-    {
-      "monitor": "91dasai.shop",
-      "url": "https://91dasai.shop/",
-      "status": "DOWN",
-      "status_text": "异常",
-      "is_abnormal": true,
-      "last_checked": "2025-10-20T13:37:50+0800"
+      "last_checked": "2025-10-20T15:41:38+0800"
     }
   ]
 }
