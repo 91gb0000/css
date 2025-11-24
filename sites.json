@@ -1,63 +1,34 @@
 {
-  "checked_at": "2025-11-24 01:45:43",
+  "checked_at": "2025-11-24 03:46:41",
   "count": 3,
-  "normal_count": 0,
-  "abnormal_count": 3,
+  "normal_count": 3,
+  "abnormal_count": 0,
   "sites": [
     {
       "monitor": "91dasai.com",
       "url": "https://91dasai.com/",
-      "status": "DOWN",
-      "status_text": "异常",
-      "is_abnormal": true,
-      "last_checked": "2025-11-24T09:42:33+0800",
+      "status": "UP",
+      "status_text": "正常",
+      "is_abnormal": false,
+      "last_checked": "2025-11-24T11:44:54+0800",
       "success_rate": 98.73
     },
     {
       "monitor": "91dasai.shop",
       "url": "https://91dasai.shop/",
-      "status": "DOWN",
-      "status_text": "异常",
-      "is_abnormal": true,
-      "last_checked": "2025-11-24T09:41:05+0800",
-      "success_rate": 79.62
+      "status": "UP",
+      "status_text": "正常",
+      "is_abnormal": false,
+      "last_checked": "2025-11-24T11:35:41+0800",
+      "success_rate": 79.75
     },
     {
       "monitor": "91dasai.xyz",
       "url": "https://91dasai.xyz/",
-      "status": "DOWN",
-      "status_text": "异常",
-      "is_abnormal": true,
-      "last_checked": "2025-11-24T09:41:08+0800",
-      "success_rate": 98.73
-    }
-  ],
-  "abnormal_sites": [
-    {
-      "monitor": "91dasai.com",
-      "url": "https://91dasai.com/",
-      "status": "DOWN",
-      "status_text": "异常",
-      "is_abnormal": true,
-      "last_checked": "2025-11-24T09:42:33+0800",
-      "success_rate": 98.73
-    },
-    {
-      "monitor": "91dasai.shop",
-      "url": "https://91dasai.shop/",
-      "status": "DOWN",
-      "status_text": "异常",
-      "is_abnormal": true,
-      "last_checked": "2025-11-24T09:41:05+0800",
-      "success_rate": 79.62
-    },
-    {
-      "monitor": "91dasai.xyz",
-      "url": "https://91dasai.xyz/",
-      "status": "DOWN",
-      "status_text": "异常",
-      "is_abnormal": true,
-      "last_checked": "2025-11-24T09:41:08+0800",
+      "status": "UP",
+      "status_text": "正常",
+      "is_abnormal": false,
+      "last_checked": "2025-11-24T11:43:27+0800",
       "success_rate": 98.73
     }
   ]
