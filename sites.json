@@ -1,5 +1,5 @@
 {
-  "checked_at": "2025-11-25 20:06:26",
+  "checked_at": "2025-11-25 22:07:27",
   "count": 3,
   "normal_count": 3,
   "abnormal_count": 0,
@@ -10,8 +10,8 @@
       "status": "UP",
       "status_text": "正常",
       "is_abnormal": false,
-      "last_checked": "2025-11-26T04:02:55+0800",
-      "success_rate": 98.7
+      "last_checked": "2025-11-26T06:04:22+0800",
+      "success_rate": 98.71
     },
     {
       "monitor": "91dasai.shop",
@@ -19,8 +19,8 @@
       "status": "UP",
       "status_text": "正常",
       "is_abnormal": false,
-      "last_checked": "2025-11-26T03:59:53+0800",
-      "success_rate": 74.03
+      "last_checked": "2025-11-26T06:06:40+0800",
+      "success_rate": 74.19
     },
     {
       "monitor": "91dasai.xyz",
@@ -28,8 +28,8 @@
       "status": "UP",
       "status_text": "正常",
       "is_abnormal": false,
-      "last_checked": "2025-11-26T04:05:06+0800",
-      "success_rate": 98.7
+      "last_checked": "2025-11-26T06:01:25+0800",
+      "success_rate": 98.71
     }
   ]
 }
