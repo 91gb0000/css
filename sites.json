@@ -1,8 +1,8 @@
 {
-  "checked_at": "2025-11-25 22:07:27",
+  "checked_at": "2025-11-26 00:08:27",
   "count": 3,
-  "normal_count": 3,
-  "abnormal_count": 0,
+  "normal_count": 2,
+  "abnormal_count": 1,
   "sites": [
     {
       "monitor": "91dasai.com",
@@ -10,17 +10,17 @@
       "status": "UP",
       "status_text": "正常",
       "is_abnormal": false,
-      "last_checked": "2025-11-26T06:04:22+0800",
-      "success_rate": 98.71
+      "last_checked": "2025-11-26T08:06:15+0800",
+      "success_rate": 98.72
     },
     {
       "monitor": "91dasai.shop",
       "url": "https://91dasai.shop/",
-      "status": "UP",
-      "status_text": "正常",
-      "is_abnormal": false,
-      "last_checked": "2025-11-26T06:06:40+0800",
-      "success_rate": 74.19
+      "status": "DOWN",
+      "status_text": "异常",
+      "is_abnormal": true,
+      "last_checked": "2025-11-26T08:07:30+0800",
+      "success_rate": 73.72
     },
     {
       "monitor": "91dasai.xyz",
@@ -28,8 +28,19 @@
       "status": "UP",
       "status_text": "正常",
       "is_abnormal": false,
-      "last_checked": "2025-11-26T06:01:25+0800",
-      "success_rate": 98.71
+      "last_checked": "2025-11-26T08:04:15+0800",
+      "success_rate": 98.72
+    }
+  ],
+  "abnormal_sites": [
+    {
+      "monitor": "91dasai.shop",
+      "url": "https://91dasai.shop/",
+      "status": "DOWN",
+      "status_text": "异常",
+      "is_abnormal": true,
+      "last_checked": "2025-11-26T08:07:30+0800",
+      "success_rate": 73.72
     }
   ]
 }
