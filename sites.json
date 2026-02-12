@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-02-12 06:15:10",
+  "checked_at": "2026-02-12 08:16:29",
   "count": 3,
   "normal_count": 3,
   "abnormal_count": 0,
@@ -10,7 +10,7 @@
       "status": "UP",
       "status_text": "正常",
       "is_abnormal": false,
-      "last_checked": "2026-02-12T14:14:47+0800",
+      "last_checked": "2026-02-12T16:12:53+0800",
       "success_rate": 100.0
     },
     {
@@ -19,7 +19,7 @@
       "status": "UP",
       "status_text": "正常",
       "is_abnormal": false,
-      "last_checked": "2026-02-12T14:13:08+0800",
+      "last_checked": "2026-02-12T16:15:21+0800",
       "success_rate": 100.0
     },
     {
@@ -28,7 +28,7 @@
       "status": "UP",
       "status_text": "正常",
       "is_abnormal": false,
-      "last_checked": "2026-02-12T14:10:23+0800",
+      "last_checked": "2026-02-12T16:13:30+0800",
       "success_rate": 100.0
     }
   ]
