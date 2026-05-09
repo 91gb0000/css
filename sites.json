@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-05-09 06:08:58",
+  "checked_at": "2026-05-09 08:09:13",
   "count": 3,
   "normal_count": 0,
   "abnormal_count": 3,
@@ -10,8 +10,8 @@
       "status": "DOWN",
       "status_text": "异常",
       "is_abnormal": true,
-      "last_checked": "2026-05-09T14:08:33+0800",
-      "success_rate": 3.51
+      "last_checked": "2026-05-09T16:06:01+0800",
+      "success_rate": 0.0
     },
     {
       "monitor": "91dasai.shop",
@@ -19,8 +19,8 @@
       "status": "DOWN",
       "status_text": "异常",
       "is_abnormal": true,
-      "last_checked": "2026-05-09T14:08:37+0800",
-      "success_rate": 3.51
+      "last_checked": "2026-05-09T16:06:07+0800",
+      "success_rate": 0.0
     },
     {
       "monitor": "91dasai.xyz",
@@ -28,8 +28,8 @@
       "status": "DOWN",
       "status_text": "异常",
       "is_abnormal": true,
-      "last_checked": "2026-05-09T14:04:41+0800",
-      "success_rate": 3.51
+      "last_checked": "2026-05-09T16:05:40+0800",
+      "success_rate": 0.0
     }
   ],
   "abnormal_sites": [
@@ -39,8 +39,8 @@
       "status": "DOWN",
       "status_text": "异常",
       "is_abnormal": true,
-      "last_checked": "2026-05-09T14:08:33+0800",
-      "success_rate": 3.51
+      "last_checked": "2026-05-09T16:06:01+0800",
+      "success_rate": 0.0
     },
     {
       "monitor": "91dasai.shop",
@@ -48,8 +48,8 @@
       "status": "DOWN",
       "status_text": "异常",
       "is_abnormal": true,
-      "last_checked": "2026-05-09T14:08:37+0800",
-      "success_rate": 3.51
+      "last_checked": "2026-05-09T16:06:07+0800",
+      "success_rate": 0.0
     },
     {
       "monitor": "91dasai.xyz",
@@ -57,8 +57,8 @@
       "status": "DOWN",
       "status_text": "异常",
       "is_abnormal": true,
-      "last_checked": "2026-05-09T14:04:41+0800",
-      "success_rate": 3.51
+      "last_checked": "2026-05-09T16:05:40+0800",
+      "success_rate": 0.0
     }
   ]
 }
