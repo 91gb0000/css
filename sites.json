@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-05-18 08:38:42",
+  "checked_at": "2026-05-18 10:38:58",
   "count": 3,
   "normal_count": 0,
   "abnormal_count": 3,
@@ -10,7 +10,7 @@
       "status": "DOWN",
       "status_text": "异常",
       "is_abnormal": true,
-      "last_checked": "2026-05-18T16:34:49+0800",
+      "last_checked": "2026-05-18T18:35:53+0800",
       "success_rate": 0.0
     },
     {
@@ -19,7 +19,7 @@
       "status": "DOWN",
       "status_text": "异常",
       "is_abnormal": true,
-      "last_checked": "2026-05-18T16:34:08+0800",
+      "last_checked": "2026-05-18T18:35:13+0800",
       "success_rate": 0.0
     },
     {
@@ -28,7 +28,7 @@
       "status": "DOWN",
       "status_text": "异常",
       "is_abnormal": true,
-      "last_checked": "2026-05-18T16:37:03+0800",
+      "last_checked": "2026-05-18T18:38:01+0800",
       "success_rate": 0.0
     }
   ],
@@ -39,7 +39,7 @@
       "status": "DOWN",
       "status_text": "异常",
       "is_abnormal": true,
-      "last_checked": "2026-05-18T16:34:49+0800",
+      "last_checked": "2026-05-18T18:35:53+0800",
       "success_rate": 0.0
     },
     {
@@ -48,7 +48,7 @@
       "status": "DOWN",
       "status_text": "异常",
       "is_abnormal": true,
-      "last_checked": "2026-05-18T16:34:08+0800",
+      "last_checked": "2026-05-18T18:35:13+0800",
       "success_rate": 0.0
     },
     {
@@ -57,7 +57,7 @@
       "status": "DOWN",
       "status_text": "异常",
       "is_abnormal": true,
-      "last_checked": "2026-05-18T16:37:03+0800",
+      "last_checked": "2026-05-18T18:38:01+0800",
       "success_rate": 0.0
     }
   ]
